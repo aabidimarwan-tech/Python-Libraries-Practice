@@ -1,7 +1,6 @@
-Alice, 90 
-Bob, 85 
-Charlie, 78 
-Marwan, 56 
-safae, 59 
-taliah, 98 
-NewStudent, 77 
+ Alice, 85 
+ Bob, 92 
+ Charlie, 78 
+ Diana, 88 
+ Evan, 95 
+ NewStudent, 77 
